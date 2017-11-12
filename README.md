@@ -11,6 +11,8 @@ contains technical and organizational documents about the Internet, including th
    
    Etymology of "Foo" [RFC3092]
    
-   "HTTP/1.1" [RFC 2616]
+ [RFC 2616]
    
-   [Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986#section-2)
+[Uniform Resource Identifier (URI): Generic Syntax [RFC 2616]](https://tools.ietf.org/html/rfc3986#section-2)
+
+[Hypertext Transfer Protocol -- "HTTP/1.1" [RFC 2616]](https://tools.ietf.org/html/rfc2616)
