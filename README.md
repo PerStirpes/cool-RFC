@@ -18,16 +18,6 @@ contains technical and organizational documents about the Internet, including th
 ](http://www.rfc-editor.org/rfc/rfc3986.txt)
 
 
-[RFC6749 "The OAuth 2.0 Authorization Framework" ]
-
-   
-[RFC6750 "The OAuth 2.0 Authorization Framework: Bearer Token Usage" ](https://www.rfc-editor.org/rfc/rfc6750.txt) 
-* Bearer Token:
-      A security token with the property that any party in possession of
-      the token (a "bearer") can use the token in any way that any other
-      party in possession of it can.  Using a bearer token does not
-      require a bearer to prove possession of cryptographic key material
-      (proof-of-possession).
 
 ### HTTP/1.1
 
@@ -42,6 +32,10 @@ contains technical and organizational documents about the Internet, including th
 
 - [RFC7540](https://tools.ietf.org/html/rfc7540) - Hypertext Transfer Protocol Version 2.
     * https://developer.apple.com/videos/play/wwdc2015/711/?time=852
+    
+### HTTP Status Codes
+https://httpstatuses.com/
+    
 
 ### Data Formats
 
@@ -55,6 +49,17 @@ contains technical and organizational documents about the Internet, including th
 
 ### Security
 
+
+- [RFC6749 "The OAuth 2.0 Authorization Framework" ]
+
+   
+[RFC6750 "The OAuth 2.0 Authorization Framework: Bearer Token Usage" ](https://www.rfc-editor.org/rfc/rfc6750.txt) 
+* Bearer Token:
+      A security token with the property that any party in possession of
+      the token (a "bearer") can use the token in any way that any other
+      party in possession of it can.  Using a bearer token does not
+      require a bearer to prove possession of cryptographic key material
+      (proof-of-possession).
 - [RFC5246](https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS Extensions.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) - Datagram Transport Layer Security Version 1.2.
