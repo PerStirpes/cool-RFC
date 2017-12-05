@@ -52,14 +52,15 @@ https://httpstatuses.com/
 
 - [RFC6749 "The OAuth 2.0 Authorization Framework" ]
 
-   
-[RFC6750 "The OAuth 2.0 Authorization Framework: Bearer Token Usage" ](https://www.rfc-editor.org/rfc/rfc6750.txt) 
+- [RFC6750 "The OAuth 2.0 Authorization Framework: Bearer Token Usage" ](https://www.rfc-editor.org/rfc/rfc6750.txt) 
+
 * Bearer Token:
       A security token with the property that any party in possession of
       the token (a "bearer") can use the token in any way that any other
       party in possession of it can.  Using a bearer token does not
       require a bearer to prove possession of cryptographic key material
       (proof-of-possession).
+      
 - [RFC5246](https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS Extensions.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) - Datagram Transport Layer Security Version 1.2.
