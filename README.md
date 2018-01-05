@@ -9,16 +9,10 @@ contains technical and organizational documents about the Internet, including th
 
 ### Witticisms
 
-[RFC 2324 Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0) ](https://tools.ietf.org/html/rfc2324#section-2.3.2)   
-[RFC3092 Etymology of "Foo" ](https://www.rfc-editor.org/rfc/rfc3092.txt)
-
-[RFC 2616 Hypertext Transfer Protocol -- "HTTP/1.1" ](https://tools.ietf.org/html/rfc2616)
-* [section 2](https://tools.ietf.org/html/rfc3986#section-2)
-
-[RFC 3986 Uniform Resource Identifier (URI): Generic Syntax
-](http://www.rfc-editor.org/rfc/rfc3986.txt)
-
-
+* [RFC 2324](https://tools.ietf.org/html/rfc2324#section-2.3.2) - Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0) 
+* [RFC3092](https://www.rfc-editor.org/rfc/rfc3092.txt) - Etymology of "Foo"
+* [RFC 2616](https://tools.ietf.org/html/rfc2616) - Hypertext Transfer Protocol -- "HTTP/1.1"
+  * [section 2](https://tools.ietf.org/html/rfc3986#section-2)
 
 ### HTTP/1.1
 
