@@ -44,7 +44,7 @@ https://httpstatuses.com/
 
 ### Security
 
-
+- [RFC4511 Lightweight Directory Access Protocol (LDAP): The Protocol](https://tools.ietf.org/html/rfc4511)
 - [RFC6749 "The OAuth 2.0 Authorization Framework" ]
 
 - [RFC6750 "The OAuth 2.0 Authorization Framework: Bearer Token Usage" ](https://www.rfc-editor.org/rfc/rfc6750.txt) 
